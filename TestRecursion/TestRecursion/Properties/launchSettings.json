@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestRecursion": {
+      "commandName": "Project",
+      "commandLineArgs": "-b \"C:\\Users\\Isaias Villalobos\""
+    }
+  }
+}

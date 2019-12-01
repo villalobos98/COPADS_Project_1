@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Isaias Villalobos\\Downloads\\TestRecursion-20190910T174718Z-001\\TestRecursion\\TestRecursion\\TestRecursion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Isaias Villalobos\\Downloads\\TestRecursion-20190910T174718Z-001\\TestRecursion\\TestRecursion\\TestRecursion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Isaias Villalobos\\Downloads\\TestRecursion-20190910T174718Z-001\\TestRecursion\\TestRecursion\\TestRecursion.csproj",
+        "projectName": "TestRecursion",
+        "projectPath": "C:\\Users\\Isaias Villalobos\\Downloads\\TestRecursion-20190910T174718Z-001\\TestRecursion\\TestRecursion\\TestRecursion.csproj",
+        "packagesPath": "C:\\Users\\Isaias Villalobos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Isaias Villalobos\\Downloads\\TestRecursion-20190910T174718Z-001\\TestRecursion\\TestRecursion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Isaias Villalobos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MatthiWare.CommandLineParser": {
+              "target": "Package",
+              "version": "[0.2.3, )"
+            },
+            "Microsoft.Extensions.CommandLineUtils": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

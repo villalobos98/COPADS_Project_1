@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "7f0cce923f7932a0ddb22997f71ef0b15eefb6c3"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TestRecursion/1.0.0": {
+        "dependencies": {
+          "MatthiWare.CommandLineParser": "0.2.3",
+          "Microsoft.Extensions.CommandLineUtils": "1.1.1"
+        },
+        "runtime": {
+          "TestRecursion.dll": {}
+        }
+      },
+      "MatthiWare.CommandLineParser/0.2.3": {
+        "runtime": {
+          "lib/netstandard2.0/CommandLineParser.dll": {
+            "assemblyVersion": "0.2.3.0",
+            "fileVersion": "0.2.3.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.CommandLineUtils/1.1.1": {
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.Extensions.CommandLineUtils.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.30427"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestRecursion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MatthiWare.CommandLineParser/0.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JpSDVNRoKPw2or5XMGGkw3u309ZLtMV7XgKpahruPk1ytUSnlcb0Nkm2YCKSuXoztJj5c5/zF9UIwC8vZFb7NA==",
+      "path": "matthiware.commandlineparser/0.2.3",
+      "hashPath": "matthiware.commandlineparser.0.2.3.nupkg.sha512"
+    },
+    "Microsoft.Extensions.CommandLineUtils/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vsI1L6Bx602aQ/8051nrRbAWGxCQQX7IKT/9XApnEYfzLPBX7LcCZuwnDyD1bHTm2D8GcMweVSPr1H2rAfAgbA==",
+      "path": "microsoft.extensions.commandlineutils/1.1.1",
+      "hashPath": "microsoft.extensions.commandlineutils.1.1.1.nupkg.sha512"
+    }
+  }
+}
